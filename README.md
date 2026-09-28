@@ -40,13 +40,17 @@
 </table>
 
 <h3>Languages & Tools:</h3>
-
 <table>
   <tr>
     <td align="center" width="90" height="90">
       <img src="https://skillicons.dev/icons?i=python" width="50">
       <br>
       Python
+    </td>
+    <td align="center" width="90" height="90">
+      <img src="https://skillicons.dev/icons?i=r" width="50">
+      <br>
+      R
     </td>
     <td align="center" width="90" height="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="50">
@@ -83,13 +87,14 @@
       <br>
       pandas
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="90" height="90">
       <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="50">
       <br>
       scikit-learn
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90" height="90">
       <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="50">
       <br>
@@ -99,11 +104,6 @@
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="50">
       <br>
       TensorFlow
-    </td>
-    <td align="center" width="90" height="90">
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50">
-      <br>
-      Streamlit
     </td>
     <td align="center" width="90" height="90">
       <img src="https://img.logo.dev/getdbt.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=512&retina=true&format=png" width="50">
