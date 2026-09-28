@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Johnny 👋</h2>
+<h2 align="center">Hi there, welcome! I'm Johnny 👋</h2>
 <p align="center">
   <strong>Data Science @ University of Michigan | Data Analyst | AI / Machine Learning</strong>
 </p>
