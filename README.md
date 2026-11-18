@@ -3,7 +3,7 @@
   <strong>Data Science @ University of Michigan | Data Analyst | AI / Machine Learning</strong>
 </p>
 
-- 🌱 Currently learning Cloud Architecture and Data Engineering
+- 🌱 Currently learning..to be decided.
 - 📫 Reach me at: ojhnny@umich.edu
   
 <h3>Connect with me:</h3>
