@@ -3,7 +3,7 @@
   <strong>Data Science @ University of Michigan | Data Analyst | AI / Machine Learning</strong>
 </p>
 
-- 🌱 Currently learning..to be decided.
+- 🌱 Currently learning... to be decided.
 - 📫 Reach me at: ojhnny@umich.edu
   
 <h3>Connect with me:</h3>
@@ -106,7 +106,7 @@
       TensorFlow
     </td>
     <td align="center" width="90" height="90">
-      <img src="https://img.logo.dev/getdbt.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=512&retina=true&format=png" width="50">
+      <img src="https://www.getdbt.com/img/site-meta/apple-touch-icon.png" width="50">
       <br>
       dbt
     </td>
